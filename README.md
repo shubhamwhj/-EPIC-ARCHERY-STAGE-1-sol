@@ -1,1 +1,3 @@
-# Project_Solution_C23_HunterArcher_1
+# hunter-archer
+
+Project Solution for hunter-archer
