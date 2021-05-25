@@ -1,3 +1,3 @@
-# hunter-archer
+# Project 23
 
-Project Solution for hunter-archer
+Project Solution 23
